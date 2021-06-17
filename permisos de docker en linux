@@ -1,0 +1,3 @@
+permiso  de docker en linux 
+sudo chmod 666 /var/run/docker.sock
+
